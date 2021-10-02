@@ -87,3 +87,10 @@ Below is an example of the time-series forecasting for Assault, Breaking & Enter
 [![Screen-Shot-2021-10-02-at-10-11-34-PM.png](https://i.postimg.cc/D0qdqGQ8/Screen-Shot-2021-10-02-at-10-11-34-PM.png)](https://postimg.cc/wRjmz7Gp)
 
 [![Screen-Shot-2021-10-02-at-9-41-04-PM.png](https://i.postimg.cc/xdsqk1WM/Screen-Shot-2021-10-02-at-9-41-04-PM.png)](https://postimg.cc/5HCfTb92)
+
+
+Recommendations for the Toronto Police Department:
+-------------------------------------------------
+* Automatic Scheduling: The command staff at Toronto Police can set up automatic scheduling through software, so the algorithms can utilize the power of time-series forecasting to help the police department predict crime and collisions occurences based on different time periof of a day, and suggest the numebr of task force and patrolling needed. 
+
+* Incorporating real-time data: With the availability of real-time data on crimes and collisions, the data fed into the clustering and time-series algorithms can be refreshed in real time to ensure that the police resources are focused on the high risk neighbourhood where their efforts will be most effective at deterring crime and avoiding accidents in real-time.
