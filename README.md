@@ -94,3 +94,4 @@ Recommendations for the Toronto Police Department:
 * Automatic Scheduling: The command staff at Toronto Police can set up automatic scheduling through software, so the algorithms can utilize the power of time-series forecasting to help the police department predict crime and collisions occurences based on different time periof of a day, and suggest the numebr of task force and patrolling needed. 
 
 * Incorporating real-time data: With the availability of real-time data on crimes and collisions, the data fed into the clustering and time-series algorithms can be refreshed in real time to ensure that the police resources are focused on the high risk neighbourhood where their efforts will be most effective at deterring crime and avoiding accidents in real-time.
+
